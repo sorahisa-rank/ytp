@@ -1,0 +1,96 @@
+{
+    "2_5fHerbicide": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)"
+        ],
+        "name": "\u9664\u8349\u5291",
+        "short_name": "2_Herbicide",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 10.0,
+        "order": 2
+    },
+    "5_5fThe_5fRitual_5fof_5fthe_5fSerpent_5fGod": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (4)",
+            "Subtask 3 (8)",
+            "Subtask 4 (8)"
+        ],
+        "name": "\u9b54\u6cd5\u86c7\u795e\u4e4b\u5100\u5f0f",
+        "short_name": "5_The_Ritual_of_the_Serpent_God",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 20.0,
+        "order": 5
+    },
+    "3_5fRainbow_5fPath": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (6)",
+            "Subtask 3 (9)"
+        ],
+        "name": "\u5f69\u8272\u8def\u5f91",
+        "short_name": "3_Rainbow_Path",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 15.0,
+        "order": 3
+    },
+    "1_5fEcho_5fCompression": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)"
+        ],
+        "name": "\u56de\u8072\u58d3\u7e2e",
+        "short_name": "1_Echo_Compression",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 10.0,
+        "order": 1
+    },
+    "4_5fReflecmino": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (15)"
+        ],
+        "name": "Reflecmino",
+        "short_name": "4_Reflecmino",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 15.0,
+        "order": 4
+    },
+    "6_5fFour_5fQueens_5fPuzzle": {
+        "extra_headers": [
+            "Subtask 1 (0)",
+            "Subtask 2 (10)",
+            "Subtask 3 (10)"
+        ],
+        "name": "\u56db\u7687\u540e\u554f\u984c",
+        "short_name": "6_Four_Queens_Puzzle",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 2,
+        "score_mode": "max_subtask",
+        "max_score": 20.0,
+        "order": 6
+    },
+    "0_5fHello_5fWorld": {
+        "extra_headers": [
+            "Subtask 1 (30)"
+        ],
+        "name": "HelloWorld",
+        "short_name": "0_Hello_World",
+        "contest": "YTP25_5fOnline_5fJ1",
+        "score_precision": 0,
+        "score_mode": "max_subtask",
+        "max_score": 30.0,
+        "order": 0
+    }
+}
