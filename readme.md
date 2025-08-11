@@ -3,3 +3,6 @@
 -   2024
     -   [國中決賽](https://sorahisa-rank.github.io/ytp/24-J2/ranking/)
     -   [高中決賽](https://sorahisa-rank.github.io/ytp/24-S2/ranking/)
+-   2025
+    -   [國中初賽](https://sorahisa-rank.github.io/ytp/25-J1/ranking/)
+    -   [高中初賽](https://sorahisa-rank.github.io/ytp/25-S1/ranking/)
